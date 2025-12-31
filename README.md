@@ -1,5 +1,9 @@
 # todo_project
 https://render.com/docs/poetry-version
+<img width="1600" height="723" alt="image" src="https://github.com/user-attachments/assets/130634fb-ee3a-41d5-af39-74b075beecc3" />
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/d9ea2d16-d6a9-4bd9-a1b7-1975c1c221df" />
+<img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/7457af8a-5313-4318-9ca1-c33f1ee17a14" />
+
 PROJECT REPORT
 Title
 
